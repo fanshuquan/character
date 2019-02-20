@@ -1,4 +1,4 @@
-package com.fsq.character.phaser;
+package com.fsq.character.concurrence.phaser;
 
 import java.util.concurrent.Phaser;
 import java.util.concurrent.TimeUnit;

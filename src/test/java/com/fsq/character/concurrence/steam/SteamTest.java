@@ -1,10 +1,8 @@
-package com.fsq.character.steam;
+package com.fsq.character.concurrence.steam;
 
 import org.junit.Test;
 
-import java.util.Arrays;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 /**
  * Created by fan on 19/2/13.
